@@ -1,1 +1,1 @@
-# svg-glitch-guide
+# Guide To SVG-Glitching
